@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Data and Cache
+cache/
+*.parquet
+
+# IDE and OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

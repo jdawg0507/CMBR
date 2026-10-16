@@ -1,0 +1,2 @@
+total_days,start_date,end_date,annualized_return_gross,annualized_return_net,annualized_volatility,sharpe_ratio_gross,sharpe_ratio_net,sortino_ratio_net,max_drawdown_pct,calmar_ratio_net,win_rate_pct,profit_factor,avg_daily_turnover_pct,total_transaction_costs_pct,ic_1d_mean,ic_1d_tstat,ic_5d_mean,ic_5d_tstat
+3969,2011-01-04,2026-10-15,6.6,-0.21,11.7,0.6,0.04,-0.03,44.31,-0.0,49.84,1.01,52.4,103.99,0.012,7.2,0.0149,9.99
